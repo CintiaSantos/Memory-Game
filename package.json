@@ -20,5 +20,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://cintiasantos.github.io/Memory-Game"
+  "homepage": "https://cintiasantos.github.io/Memory-Game/"
 }
